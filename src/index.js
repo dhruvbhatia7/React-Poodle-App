@@ -12,8 +12,8 @@ const router = (
     <Router>
         <div>
             <Route exact path="/" component={App} />
-            <Route path="/poodle-detail/:name" component={PoodleDetail} sensitive/>
-            <Route path="/adopt" component={Adopt} />
+            <Route exact path="/poodle-detail/:name" component={PoodleDetail} sensitive/>
+            <Route path="/poodle-detail/:name/adopt" component={Adopt} sensitive/>
         </div>
     </Router>
 );

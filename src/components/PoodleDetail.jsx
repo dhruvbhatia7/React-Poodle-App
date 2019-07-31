@@ -59,7 +59,7 @@ class PoodleDetail extends React.Component {
     }
 
     adoptPoodle() {
-        this.props.history.push('/adopt');
+        this.props.history.push(this.props.location.pathname + '/adopt');
     }
 
     render() {
