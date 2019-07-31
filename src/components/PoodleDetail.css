@@ -1,0 +1,25 @@
+.poodle-detail-img {
+    margin-top: 40px;
+    width: 450px;
+    height: 300px;
+}
+
+.poodle-info {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.adopt-btn {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.poodle-background {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}

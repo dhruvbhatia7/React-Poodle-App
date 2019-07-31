@@ -1,0 +1,13 @@
+.poodle-img {
+    height: 200px;
+    width: 300px;
+}
+
+.poodle-name {
+    margin-top: 20px;
+}
+
+.poodle-details {
+    cursor: pointer;
+    margin-bottom: 60px;
+}
