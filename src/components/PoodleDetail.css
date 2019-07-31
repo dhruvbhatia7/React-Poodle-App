@@ -11,15 +11,26 @@
     flex-direction: column;
 }
 
-.adopt-btn {
+.poodle-more-info {
     margin-top: 40px;
+}
+
+.poodle-skill {
+    margin-right: 10px;
+}
+
+.poodle-vaccination {
+    margin-left: 10px;
+}
+
+.adopt-btn {
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
 .poodle-background {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 30%;
     margin-right: 30%;
-    text-align: center;
 }
