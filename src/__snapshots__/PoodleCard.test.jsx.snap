@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PoodleCard Name should render correctly 1`] = `
+<div
+  className="poodle-details"
+>
+  <img
+    alt=""
+    className="poodle-img"
+  />
+  <div
+    className="poodle-name"
+  >
+    Swaffy
+  </div>
+</div>
+`;
+
+exports[`PoodleCard img img src should be correct 1`] = `
+<div
+  className="poodle-details"
+>
+  <img
+    alt=""
+    className="poodle-img"
+    src="https://bull"
+  />
+  <div
+    className="poodle-name"
+  />
+</div>
+`;
